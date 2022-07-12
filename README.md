@@ -1,24 +1,8 @@
-# vue-weather
+# Vue Weather App
+A Weather App using Vue and the Open Weather Map API.
 
-## Project setup
-```
-npm install
-```
+<br/>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Credits
+[Tyler Potts](https://tylerpotts.co.uk/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
